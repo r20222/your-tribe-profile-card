@@ -48,6 +48,7 @@ h1 {
 li {
   border: 2px solid black;
   border-radius: 50px;
+  list-style-type: none;
 }
 
 button {
