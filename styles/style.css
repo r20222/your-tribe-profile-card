@@ -2,7 +2,10 @@
   box-sizing:border-box;
 }
 
-body {
+
+
+
+  body {
  
   font-family: open sans;
   display:flex;
@@ -155,3 +158,4 @@ body.expand dd {
 body.expand img {
   width:15em;
 }
+
