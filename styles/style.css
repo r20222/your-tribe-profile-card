@@ -132,11 +132,6 @@ dd:nth-of-type(2){
   transform: translateY(1rem);
 }
 
-p { 
-  margin:50px;
-  border: solid 1px;
-  border-radius: 5px;
-}
 
 article > p {
   padding:3rem 2rem;
