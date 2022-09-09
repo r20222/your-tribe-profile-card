@@ -4,4 +4,4 @@ Mijn visitekaartje
 
 Dit is een screenshot mijn visitekaartje. Hij is nog niet helemaal af en ben op dit moment bezig om het af te maken. In de definitieve versie wil ik hebben dat je over de rondjes hovert en dat je daarachter text kan lezen over wie ik ben.
 
-roelie.student.fdnd.nl/versie2
+https://roelie.student.fdnd.nl/versie2
