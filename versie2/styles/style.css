@@ -119,11 +119,10 @@ article p:nth-of-type(6) {
 article p span {
   font-size: 0.75rem;
   
+  
+  
 }
 
-/* article p:nth-of-type(6) .uitleg {
-  font-size:1em;
-} */
 
 article p:nth-of-type(7) {
   right:60px;
