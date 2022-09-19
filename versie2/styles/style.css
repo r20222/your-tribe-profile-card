@@ -1,19 +1,14 @@
 * {
   box-sizing:border-box;
+  font-family: 'Roboto', sans-serif;
 }
-
-
-
-
   body {
- 
   font-family: open sans;
   display:flex;
   justify-content:center;
   align-items:center;
   color:#10214e;
 }
-
 article {
   height:600px;
   width:330px;
@@ -28,7 +23,6 @@ article {
   position: relative;
   transition:.25s;
 }
-
 header {
   display:flex;
   flex-direction:column;
@@ -37,13 +31,10 @@ header {
   justify-content:flex-end;
   
 }
-
 h1 {
   margin:2rem 0 1rem;
   color: rgba(0,239,255,1);
 }
-
-
 article > p.eerst {
   padding:0;
   margin-top: 0;
@@ -53,15 +44,10 @@ article > p.eerst {
   width:100%;
   line-height:2em;
   border:none;
-  
-  
   height:2em;
   width: 2em;
-  font-size:2em;
   position: absolute;
-  
 }
-
 article > p.tweede {
   padding:0;
   margin-top: 0;
@@ -76,12 +62,10 @@ article > p.tweede {
   width: 2em;
   font-size:2em;
   position: absolute;
-  
 }
-
 article p:nth-of-type(1) {
   right:60px;
-  bottom:0px;
+  bottom:12px;
   font-size: 3em;
   transition:1s;
 }
@@ -99,10 +83,9 @@ article p:nth-of-type(3) {
   line-height: 0px;
   bottom:-25px;
 }
-
 article p:nth-of-type(4) {
   right:10px;
-  bottom:250px;
+  bottom:263px;
   font-size: 3em;
   transition:1s;
 }
@@ -112,15 +95,10 @@ article p:nth-of-type(5) {
   font-size: 3em;
   transition: 1s;
   line-height:0px;
-  
-  
-  
 }
 #spaans {
   bottom:37%;
 }
-
-
 article p:nth-of-type(6) {
   left:70px;
   bottom:50px;
@@ -130,49 +108,38 @@ article p:nth-of-type(6) {
   bottom: 0%;
 }
 article p span {
-  font-size: 0.75rem;
- 
-  
-  
+  font-size: 0.75rem; 
 }
-
-
 article p:nth-of-type(7) {
   right:60px;
   bottom:0px;
   font-size: 3em;
   transition:1s;
 }
-
 article p:nth-of-type(9) {
   left:60px;
   bottom:0px;
   font-size: 3em;
-  transition: 1s;
-  
+  transition: 1s; 
 }
-
 article p:nth-of-type(10) {
   right:10px;
   bottom:250px;
   font-size: 3em;
   transition:1s;
 }
-
 article p:nth-of-type(12) {
   left:70px;
   bottom:50px;
   font-size: 6em;
   transition: 1s;
 }
-
 article p:nth-of-type(8) {
   left:50px;
   bottom:250px;
   font-size:7em;
   transition: 1s;
 }
-
 article p:nth-of-type(11) {
   left:10px;
   bottom:250px;
