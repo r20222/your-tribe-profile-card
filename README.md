@@ -1,7 +1,7 @@
 Mijn visitekaartje
 
-![image](https://user-images.githubusercontent.com/101579892/189308973-3bd58317-9f90-46aa-928d-c5cb8faaae58.png)
+![image](https://user-images.githubusercontent.com/101579892/190980977-d2de84ea-f8d1-4c20-8f8b-180cfe9c2a98.png)
 
-Dit is een screenshot mijn visitekaartje. Hij is nog niet helemaal af en ben op dit moment bezig om het af te maken. In de definitieve versie wil ik hebben dat je over de rondjes hovert en dat je daarachter text kan lezen over wie ik ben.
+Dit is een screenshot van mijn meest actueel geüpdate visitekaartje. Als je over de rondjes hovert met de muis lees je informatie over mij.
 
 https://roelie.student.fdnd.nl/versie2
